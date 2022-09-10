@@ -40,7 +40,7 @@ namespace HospiEnCasa.App.Consola
                             .Console
                             .WriteLine("metodo para borrar un paciente");
 
-                             BorrarPaciente(2);
+                             BorrarPaciente(1);
                         break;
                     case 3:
                         System
